@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+h1{
+	color:blue;
+}
+
+.deleteBtn{
+	border-style: none;
+	background-color: inherit;
+	color: #0d6efd;
+	text-decoration-line: underline;
+	padding: 0px;
+	margin: 0px;
+}
